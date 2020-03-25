@@ -1,0 +1,115 @@
+body{
+				margin:0px;
+				padding:0px;
+				background-color:#f4f4f4;
+				}
+header{
+				width:100%;
+				background-image:url(survey.png);
+				height:310px;
+				background-size: cover;
+				background-color: blue;
+				color: black;
+				display:flex;
+				align-items:center;
+				justify-content:center;
+				margin-bottom:50px;
+				font-family:"baloo da 2"
+				}
+.one, .two{
+				font-size:40px;
+				font-weight:bolder;
+				text-align:center;
+				text-shadow:5px 5px 5px grey ;
+				}
+.one{
+				margin-top:-30px;
+				}
+label ,input[type="text"]{
+				display:block;
+				}
+label, input{
+				outline:none;
+				margin-bottom:10px;
+				outline:none;
+				}
+label{
+				font-weight:500;
+				}
+input[type="text"]{
+				height:30px;
+				width:80%;
+				}
+input[type="radio"]{
+				heigh:30px;
+				widt:80%;
+				}
+.icon{
+				margin:auto;
+				width:40px;
+				height:40px;
+				}		
+footer{
+				margin-top:30px;
+				padding:20px;
+				background-color:;
+				border-radius:35px 35px 0px 0px;
+				color: black;			
+				border:3px solid rgba(190 ,190, 190,0.4);	
+				}		
+.footicon{
+				display:flex;
+				justify-content: center;
+				}
+fieldset{
+				width:85%;
+				padding:20px 15px 20px 15px;
+				margin:60px auto 90px auto;
+				background-color: white;
+				border-radius:8px;
+				border:1px solid #aeaeae;		
+				box-shadow:1px 1px 7px #aeaeae;
+				}				
+.heading2{
+				text-align:center;
+				margin:0px auto -45px auto;
+				font-size:17px;
+				font-weight:bolder;
+				border:4px solid grey;
+				border-style: dashed;
+				width:90%;
+				padding:10px;
+				text-shadow:3px 3px 3px grey ;
+				}
+legend{
+				border:1px solid #aeaeae;
+				padding:15px;
+				background-color:;
+				border-radius:8px;
+				box-shadow:2px 2px 7px #aeaeae;
+				}
+input[type="submit"]{
+				padding:10px;
+				border-radius:5px;
+				display:block;
+				margin:-60px auto 0px auto;
+				font-family:"baloo da 2"
+				}
+textarea{
+				width:100%;
+				height:150px;
+				outline:none;
+				}
+hr{
+				width:70%;
+				border:2px solid #eeeeee;
+				margin:30px auto 20px auto;
+				}
+.invite{
+				text-align:center;
+				margin-bottom:-20px;
+				font-size:31px;
+				font-family:"satisfy";
+				}
+
+
